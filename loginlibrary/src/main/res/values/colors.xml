@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="utily">#24C0EB</color>
+
+    <color name="colorRipple">#FFFFFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlue">#24c0eb</color>
+    <color name="colorBlack">@android:color/black</color>
+    <color name="colorGreen">#54C768</color>
+    <color name="colorCinza">#9CA7AC</color>
+    <color name="colorCinza2">#3D4548</color>
+    <color name="colorCinza3">#EFF0F5</color>
+    <color name="colorCinza4">#D5D8DD</color>
+
+    <color name="amarelologin">#FFDD00</color>
+    <color name="izicompras">#2E2250</color>
+    <color name="Utily">#24C0EB</color>
+    <color name="fff0e6">#FFF0E6</color>
+
+    <!-- LoadView -->
+    <color name="loadViewTitleColor">@android:color/black</color>
+    <color name="loadViewMessageColor">#3D4548</color>
+</resources>

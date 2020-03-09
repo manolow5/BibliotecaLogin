@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LoginLibrary</string>
+
+    <string name="entrar_com_o_seu_celular">Entrar com o seu celular</string>
+    <string name="entrar_com_o_google">Entrar com o google</string>
+    <string name="_00_0_0000_0000">(00) 0 0000-0000</string>
+    <string name="receber_codigo_por_sms">Receber código por SMS</string>
+    <string name="qual_o_numero_do_seu_celular">Qual o número do seu celular?</string>
+    <string name="continuar">Continuar</string>
+    <string name="text_receber_codigo">Digite o código de 6 dígitos que enviamos para</string>
+    <string name="_num_celular">(11) 95678-5677</string>
+    <string name="enviar">Enviar</string>
+
+    <string name="entendi_dialog">ENTENDI</string>
+    <string name="codigo_incorreto">Código Incorreto!</string>
+    <string name="codigo_incorreto_message">Verifique o código recebido, e tente novamente.</string>
+
+    <string name="erro_ocorrido">Erro Ocorrido!</string>
+    <string name="erro_ocorrido_message">Erro inesperado ocorrido, tente novamente.</string>
+    <string name="splash_error_message">Erro ocorrido, tente novamente!</string>
+    <string name="tentar_novamente">Tentar Novamente</string>
+    <string name="internet_error">Confira se o seu celular está conectado á\ninternet e tente novamente.</string>
+
+</resources>
